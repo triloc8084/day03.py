@@ -1,4 +1,4 @@
-"""num=int(input("k: "))
+num=int(input("k: "))
 sum1=0
 a=0
 b=1
@@ -14,11 +14,11 @@ while(c<=num):
     p=p+1
     c=a+b
 
-print("sum:",s)"""
+print("sum:",s)
 
-"""n=int(input(" "))
+n=int(input(" "))
 y=(n**(1/3))
-print("{0:.3f}".format(y))"""
+print("{0:.3f}".format(y))
 
 n=int(input("enter: "))
 tup=list()
